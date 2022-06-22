@@ -2,7 +2,7 @@
 ---
 - 🔭 Hoje trabalho com Assistente de TI
 - 🌱 Estou estudando Python e seu framework flask
-- 📖 Próxima formação que pretendo começar é Django e AWS
+- 📖 Próxima formação que pretendo fazer é Django
 - 😄 Pronomes: Ele/Dele
 
  
