@@ -1,8 +1,7 @@
 ### Olá pessoas! Eu sou o Luan Carvalho! 😁
 ---
 - 🔭 Hoje trabalho com Assistente de TI
-- 🌱 Estou estudando Python e seu framework flask
-- 📖 Próxima formação que pretendo fazer é Django
+- 🌱 Estou estudando o framework Django atualmente
 - 😄 Pronomes: Ele/Dele
 
  
