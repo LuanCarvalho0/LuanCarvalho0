@@ -1,6 +1,6 @@
 ### Olá pessoas! Eu sou o Luan Carvalho! 👋
 ---
-- 🔭 Hoje trabalho com Assistente de TI
+- 🔭 Hoje trabalho como Assistente de TI
 - 🌱 Estudante de Ciências da Computação
 - 🧑‍💻 Meu foco atualmente esta em Desenvolvimento Back-end
 - 😄 Pronomes: Ele/Dele
