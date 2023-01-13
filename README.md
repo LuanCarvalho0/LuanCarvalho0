@@ -1,19 +1,22 @@
 ### Olá pessoas! Eu sou o Luan Carvalho! 👋
 ---
 - 🔭 Hoje trabalho com Assistente de TI
-- 🌱 Estou estudando o framework Django atualmente
+- 🌱 Estudante de Ciências da Computação
+- 🧑‍💻 Meu foco atualmente esta em Desenvolvimento Back-end
 - 😄 Pronomes: Ele/Dele
+
+### 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Python-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="Python-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-  <img align="center" alt="Python-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> 
-  <img align="center" alt="Python-Icon" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Python-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
-  <img align="center" alt="Python-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
-  <img align="center" alt="Python-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/jtozOaHFzh1FQYpwyx/giphy.gif">
+  <img align="center" alt="Django-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="Flask-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+  <img align="center" alt="Postgres-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> 
+  <img align="center" alt="Mysql-Icon" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
+  <img align="center" alt="HTML-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
+  <img align="center" alt="CSS-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
+  <img align="center" alt="JS-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="right" alt="Luan-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/jtozOaHFzh1FQYpwyx/giphy.gif">
 </div>
   
 ##
