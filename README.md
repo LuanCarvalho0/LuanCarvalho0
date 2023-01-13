@@ -1,4 +1,4 @@
-### Olá pessoas! Eu sou o Luan Carvalho! 😁
+### Olá pessoas! Eu sou o Luan Carvalho! 👋
 ---
 - 🔭 Hoje trabalho com Assistente de TI
 - 🌱 Estou estudando o framework Django atualmente
