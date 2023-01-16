@@ -1,5 +1,5 @@
 <div align="center">
-  <h3> 🎉 Olá pessoas! Eu sou o Luan Carvalho! 👋 </h3>
+  <h3> 🎉 Olá, Eu sou o Luan! 👋 </h3>
 </div>
 
 ---
