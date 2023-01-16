@@ -1,5 +1,9 @@
-### Olá pessoas! Eu sou o Luan Carvalho! 👋
+<div align="center">
+  <h3> 🎉 Olá pessoas! Eu sou o Luan Carvalho! 👋 </h3>
+</div>
+
 ---
+
 - 🔭 Hoje trabalho como Assistente de TI
 - 🌱 Estudante de Ciências da Computação
 - 🧑‍💻 Meu foco atualmente esta em Desenvolvimento Back-end
