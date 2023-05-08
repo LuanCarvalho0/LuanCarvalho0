@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 Hoje trabalho como Assistente de TI
+- 🔭 Hoje trabalho como Analista de Power BI
 - 🌱 Estudante de Ciências da Computação
 - 🧑‍💻 Meu foco atualmente esta em Desenvolvimento Back-end
 - 😄 Pronomes: Ele/Dele
