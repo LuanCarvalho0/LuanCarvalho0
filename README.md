@@ -4,10 +4,10 @@
 
 ---
 
-- 🔭 Hoje trabalho como Analista de Power BI
-- 🌱 Estudante de Ciências da Computação
-- 🧑‍💻 Meu foco atualmente esta em Desenvolvimento Back-end
-- 😄 Pronomes: Ele/Dele
+- 🔭 Hoje trabalho como Analista de Power BI.
+- 🌱 Estudante de Ciências da Computação.
+- 🧑‍💻 Meu foco atualmente está em Desenvolvimento Back-end.
+- 😄 Pronomes: Ele/Dele.
 
 <div align="center">
   <a href="https://github.com/LuanCarvalho0">
