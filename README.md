@@ -4,9 +4,9 @@
 
 ---
 
-- 🔭 Hoje trabalho como Analista de Power BI.
-- 🌱 Estudante de Ciências da Computação.
-- 🧑‍💻 Meu foco atualmente está em Desenvolvimento Back-end.
+- 🎓 Cursando Ciências da Computação.
+- 🧑‍💻 Interesse em Desenvolvimento Back-end.
+- 🚀 Buscando uma oportunidade para atuar como desenvolvedor
 - 😄 Pronomes: Ele/Dele.
 
 <div align="center">
