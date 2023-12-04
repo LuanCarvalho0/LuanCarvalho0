@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=header"/>
 
-
-### Olá, Eu sou o Luan Carvalho! 👨‍💻👋
+### Olá, meu nome é Luan Carvalho! 👨‍💻👋
 - 🎓 Cursando Ciências da Computação.
 - 🧑‍💻 Interesse em Desenvolvimento Back-end.
 - 🚀 Buscando uma oportunidade para atuar como desenvolvedor
@@ -15,19 +14,43 @@
 </div>
 
 
-## Tecnologias e Ferramentas 💻
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Django-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="Flask-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-  <img align="center" alt="Postgres-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> 
-  <img align="center" alt="Mysql-Icon" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
-  <img align="center" alt="HTML-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
+## My Skills 💻
 
-  <img align="right" alt="Luan-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/jtozOaHFzh1FQYpwyx/giphy.gif">
+#### Main Stack:
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=092E20)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi&logoColor=05998b)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+
+#### Utilities:
+
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+#### DevOps:
+
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+#### Databases:
+
+
+
+#### Development Tools:
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
+![Notion](https://img.shields.io/badge/Notion-333333?style=flat&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+
+<img align="right" alt="Luan-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/jtozOaHFzh1FQYpwyx/giphy.gif">
 </div>
-  
-## Me alcance 📫
+
+<br/>
+
+## Reach me 📫
 <p align="left">
   <a href="https://www.linkedin.com/in/luancarvalho0/" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
