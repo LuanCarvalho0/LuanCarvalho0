@@ -4,6 +4,7 @@
 - 🎓 Cursando Ciências da Computação.
 - 🧑‍💻 Interesse em Desenvolvimento Back-end.
 - 🚀 Buscando uma oportunidade para atuar como desenvolvedor
+- 🌱 Aprendendo mais sobre ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) e ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis).
 - 😄 Pronomes: Ele/Dele.
 
 ## GitHub Stats ⚡
@@ -21,8 +22,15 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=092E20)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi&logoColor=05998b)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+
+#### Secondary Stack:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+
 
 #### Utilities:
 
@@ -34,9 +42,11 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-#### Databases:
+#### Databases (SGBD):
 
-
+![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 
 #### Development Tools:
 
@@ -44,6 +54,8 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
 ![Notion](https://img.shields.io/badge/Notion-333333?style=flat&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=017AD7)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=black)
 
 <img align="right" alt="Luan-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/jtozOaHFzh1FQYpwyx/giphy.gif">
 </div>
